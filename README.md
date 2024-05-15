@@ -18,7 +18,7 @@ This project was undertaken to address the unique challenges of the hospitality 
 
 Explore the interactive dashboard to gain real-time insights into the hospitality industry's revenue metrics. [Interactive Dashboard](https://your-dashboard-link-here)
 
-![Dashboard Home Page](PowerBI Project.png)
+![Dashboard Home Page](./PowerBI_Project.png)
 
 ## Learning Experience
 
